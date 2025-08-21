@@ -1,5 +1,5 @@
 # 💫 About Me:
-Saya adalah seorang mahasiswa Matematika ITS angkatan 2023. Sekarang saya sedang mendalami tentang machine learning.
+"I am a Mathematics student at ITS (Institut Teknologi Sepuluh Nopember), class of 2023. I have a strong passion for stock investment and am currently delving deeper into the field of machine learning."
 
 
 ## 🌐 Socials:
